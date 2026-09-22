@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+data/
+*.sqlite3
+*.sqlite3-journal
